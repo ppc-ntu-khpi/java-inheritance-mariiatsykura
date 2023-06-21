@@ -1,4 +1,0 @@
-var dir_d522931ffa1371640980b621734a4381 =
-[
-    [ "galac", "dir_1f4aed447e1be8d255199238a7a9c445.html", "dir_1f4aed447e1be8d255199238a7a9c445" ]
-];
