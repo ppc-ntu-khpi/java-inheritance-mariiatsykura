@@ -20,3 +20,6 @@
    
 7. ***TestAnimal:***
 <img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/4.jpeg" width="60%"/>
+
+### Результат роботи програми:
+<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/result (2).jpeg" width="60%"/>
