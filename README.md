@@ -9,14 +9,14 @@
 
 ## В рамках виконання практичної роботи було створено наступні класи:
 1. ***Animal:***
-<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/1.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/1.jpeg" width="100%"/>
    
 3. ***Tiger:***
-<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/3.1.jpg" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/3.2.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/3.1.jpeg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/3.2.jpeg" width="100%"/>
    
 5. ***Predator:***
-<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/2.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/2.jpeg" width="80%"/>
    
 7. ***TestAnimal:***
-<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/4.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/java-inheritance-mariiatsykura/blob/master/images/4.jpeg" width="60%"/>
